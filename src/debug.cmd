@@ -1,2 +1,0 @@
-g++ main.cpp -o main.exe -lglfw3 -lgdi32 -lglu32 -lglew32 -lSDL2 C:/mingw64/x86_64-w64-mingw32/include/SOIL2/soil2-debug.lib -lopengl32 -static-libgcc -static-libstdc++ -Wl,-Bstatic -lstdc++ -lpthread -Wl,-Bdynamic
-main
